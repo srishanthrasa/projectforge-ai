@@ -1,0 +1,6 @@
+{
+  "name": "ProjectForge AI",
+  "description": "AI-Powered Final-Year Project Idea Generator & Mentor",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
